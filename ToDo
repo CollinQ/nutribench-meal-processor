@@ -1,0 +1,20 @@
+10/22/2024
+
+Google Slides Presentation
+
+- Generate statistics on the Kenya dataset:
+    - Total number of meals
+    - Total number of dishes
+    - Total number of ingredients
+    - Food items per meal mean
+    - Carbs per meal mean
+    - Carbs per dish mean
+    - Carbs per ingredient mean
+- Making serving size more natural
+- Updating prompt to include the meal description
+- Present on the nutrient similarity
+- Problem: in dishes, need specific ingredients listed that could change the nutritional value
+    - e.g. tea w/ sugar vs tea w/out sugar
+    - include the specific ingredients that will affect the macro nutrients
+        - if we can ask gpt, specifically if ingredient will affect fat, protein, carbs, or all macronutrients
+
