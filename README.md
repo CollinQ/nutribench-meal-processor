@@ -1,6 +1,3 @@
-# nutribench-meal-processor
-Real AI Lab Assignment
-
 # NutriBench Meal Processor
 
 ## Description
